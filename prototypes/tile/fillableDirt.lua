@@ -29,35 +29,35 @@ data:extend({
           main =
           {
             {
-              picture = "__Rampant__/graphics/tiles/fillableDirt/dirt1.png",
+              picture = "__Rampant_ldinc__/graphics/tiles/fillableDirt/dirt1.png",
               count = 8,
               size = 1
             }
             ,
             {
-              picture = "__Rampant__/graphics/tiles/fillableDirt/dirt2.png",
+              picture = "__Rampant_ldinc__/graphics/tiles/fillableDirt/dirt2.png",
               count = 8,
               size = 2
             },
             {
-              picture = "__Rampant__/graphics/tiles/fillableDirt/dirt4.png",
+              picture = "__Rampant_ldinc__/graphics/tiles/fillableDirt/dirt4.png",
               count = 6,
               size = 4
             }
           },
           inner_corner =
           {
-            picture = "__Rampant__/graphics/tiles/fillableDirt/dirt-inner-corner.png",
+            picture = "__Rampant_ldinc__/graphics/tiles/fillableDirt/dirt-inner-corner.png",
             count = 6
           },
           outer_corner =
           {
-            picture = "__Rampant__/graphics/tiles/fillableDirt/dirt-outer-corner.png",
+            picture = "__Rampant_ldinc__/graphics/tiles/fillableDirt/dirt-outer-corner.png",
             count = 6
           },
           side =
           {
-            picture = "__Rampant__/graphics/tiles/fillableDirt/dirt-side.png",
+            picture = "__Rampant_ldinc__/graphics/tiles/fillableDirt/dirt-side.png",
             count = 8
           }
         },

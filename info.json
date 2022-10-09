@@ -1,9 +1,10 @@
 {
-    "name" : "Rampant",
+    "name" : "Rampant_ldinc",
     "factorio_version" : "1.1",
-    "version" : "3.1.3",
-    "title" : "Rampant",
+    "version" : "3.1.4",
+    "title" : "Rampant (forked)",
     "author" : "Veden",
     "homepage" : "https://forums.factorio.com/viewtopic.php?f=94&t=31445",
-    "dependencies" : ["base >= 1.1.36", "? bobenemies", "? Natural_Evolution_Enemies >= 0.17.0", "? Clockwork", "? Kux-OrbitalIonCannon", "? Orbital Ion Cannon", "? ArmouredBiters", "? Krastorio2", "? SchallAlienLoot >= 0.17.6"]
+    "dependencies" : ["base >= 1.1.36", "? bobenemies", "? Natural_Evolution_Enemies >= 0.17.0", "? Clockwork", "? Kux-OrbitalIonCannon", "? Orbital Ion Cannon", "? ArmouredBiters", "? Krastorio2", "? SchallAlienLoot >= 0.17.6"],
+    "description": "Forked Rampant mod. Added adjustable relation beetween distance from (0,) and evo factor. Will be deleted after resolve pull request of original modder"
 }

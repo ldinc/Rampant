@@ -70,7 +70,7 @@ function streamUtils.makeStream(attributes)
 
                 shadow =
                     {
-                        filename = "__Rampant__/graphics/acid-projectile-purple/acid-projectile-purple-shadow.png",
+                        filename = "__Rampant_ldinc__/graphics/acid-projectile-purple/acid-projectile-purple-shadow.png",
                         line_length = 5,
                         width = 28,
                         height = 16,

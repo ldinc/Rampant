@@ -32,8 +32,8 @@ local stickerUtils = require("utils/StickerUtils")
 local unitUtils = require("utils/UnitUtils")
 local fireUtils = require("utils/FireUtils")
 
-local constants = require("__Rampant__/libs/Constants")
-local mathUtils = require("__Rampant__/libs/MathUtils")
+local constants = require("__Rampant_ldinc__/libs/Constants")
+local mathUtils = require("__Rampant_ldinc__/libs/MathUtils")
 
 -- imported functions
 

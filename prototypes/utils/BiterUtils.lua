@@ -1341,14 +1341,14 @@ function biterUtils.createStreamAttack(attributes, fireAttack, animation)
                 middle_sound =
                     {
                         {
-                            filename = attributes.midSound or "__Rampant__/sounds/attacks/acid-mid.ogg",
+                            filename = attributes.midSound or "__Rampant_ldinc__/sounds/attacks/acid-mid.ogg",
                             volume = 0.2 + (attributes.effectiveLevel * 0.05)
                         }
                     },
                 end_sound =
                     {
                         {
-                            filename = attributes.endSound or "__Rampant__/sounds/attacks/acid-end.ogg",
+                            filename = attributes.endSound or "__Rampant_ldinc__/sounds/attacks/acid-end.ogg",
                             volume = 0.2 + (attributes.effectiveLevel * 0.05)
                         }
                     }

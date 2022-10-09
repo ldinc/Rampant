@@ -57,7 +57,7 @@ function energyThief.addFactionAddon()
             {
                 type = "item",
                 name = "drain-trigger-rampant",
-                icon = "__Rampant__/graphics/icons/thief/crystal-drain.png",
+                icon = "__Rampant_ldinc__/graphics/icons/thief/crystal-drain.png",
                 icon_size = 32,
                 icon_mipmaps = 1,
                 flags = {"hidden"},
@@ -70,7 +70,7 @@ function energyThief.addFactionAddon()
             {
                 type = "item",
                 name = "crystal-drain-pole-rampant",
-                icon = "__Rampant__/graphics/icons/thief/crystal-drain.png",
+                icon = "__Rampant_ldinc__/graphics/icons/thief/crystal-drain.png",
                 icon_size = 32,
                 icon_mipmaps = 1,
                 flags = {"hidden"},
@@ -83,7 +83,7 @@ function energyThief.addFactionAddon()
             {
                 type = "electric-pole",
                 name = "crystal-drain-pole-rampant",
-                icon = "__Rampant__/graphics/icons/thief/crystal-drain.png",
+                icon = "__Rampant_ldinc__/graphics/icons/thief/crystal-drain.png",
                 icon_size = 32,
                 icon_mipmaps = 1,
                 flags = {"hidden"},
@@ -119,7 +119,7 @@ function energyThief.addFactionAddon()
                 vehicle_impact_sound =  { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
                 pictures =
                     {
-                        filename = "__Rampant__/graphics/entities/thief/crystal-drain-pole.png",
+                        filename = "__Rampant_ldinc__/graphics/entities/thief/crystal-drain-pole.png",
                         priority = "high",
                         width = 168,
                         height = 130,
@@ -197,7 +197,7 @@ function energyThief.addFactionAddon()
 
     local chest = util.table.deepcopy(data.raw["radar"]["radar"])
     chest.name = "pylon-target-rampant"
-    chest.icon = "__Rampant__/graphics/icons/thief/crystal-drain.png"
+    chest.icon = "__Rampant_ldinc__/graphics/icons/thief/crystal-drain.png"
     chest.icon_size = 32
     chest.corpse = nil
     chest.icon_mipmaps = 1
@@ -210,7 +210,7 @@ function energyThief.addFactionAddon()
     chest.pictures = {
         layers={
             {
-                filename = "__Rampant__/graphics/entities/thief/crystal-drain-pole.png",
+                filename = "__Rampant_ldinc__/graphics/entities/thief/crystal-drain-pole.png",
                 priority = "high",
                 width = 168,
                 height = 130,
@@ -259,7 +259,7 @@ function energyThief.addFactionAddon()
             {
                 type = "item",
                 name = "pylon-target-rampant",
-                icon = "__Rampant__/graphics/icons/thief/crystal-drain.png",
+                icon = "__Rampant_ldinc__/graphics/icons/thief/crystal-drain.png",
                 icon_size = 32,
                 icon_mipmaps = 1,
                 flags = {"hidden"},
